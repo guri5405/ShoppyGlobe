@@ -1,5 +1,5 @@
 Github repositorylink :
- # 
+ # https://github.com/guri5405/ShoppyGlobe.git
 
 # ShoppyGlobe
 ShoppyGlobe is a basic e-commerce application built using React and Redux. The application allows users to browse a list of products, view detailed product information, add products to a shopping cart, and manage cart items. It demonstrates key concepts of modern web development such as state management, component-based architecture, data fetching, and routing. This project is also optimized with lazy loading to enhance performance.
